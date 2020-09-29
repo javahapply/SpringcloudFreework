@@ -5,9 +5,9 @@
 	<modelVersion>4.0.0</modelVersion>
 	
 	<groupId>com.ztd</groupId>
-	<artifactId>SpringCloud-Provider</artifactId>
+	<artifactId>springcloud-provider</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>SpringCloud-Provider</name>
+	<name>springcloud-provider</name>
 
 
 
